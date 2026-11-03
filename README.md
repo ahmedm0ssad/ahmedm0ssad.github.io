@@ -1,151 +1,74 @@
-# [The Academic CV That Gets You Hired](https://github.com/HugoBlox/hugo-theme-academic-cv)
+# Ahmed Mossad — Portfolio Website
 
-[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/academic-cv/start/?utm_source=github&utm_medium=readme)
+[![Live site](https://img.shields.io/badge/live-ahmedm0ssad.github.io-22c55e?logo=github)](https://ahmedm0ssad.github.io/)
+[![Built with Hugo](https://img.shields.io/badge/built%20with-Hugo%20extended-FF4088?logo=hugo&logoColor=white)](https://gohugo.io/)
+[![Template](https://img.shields.io/badge/template-Hugo%20Blox%20Academic%20CV-blue)](https://github.com/HugoBlox/hugo-theme-academic-cv)
+[![Deploy status](https://img.shields.io/badge/deploy-GitHub%20Pages-2088FF?logo=githubactions&logoColor=white)](https://github.com/ahmedm0ssad/ahmedm0ssad.github.io/actions)
 
-<h1 align="center">The Portfolio That Works While You Sleep</h1>
+The personal portfolio of **Ahmed Mossad** — AI Engineer (Data Science & AI), based in Giza, Egypt.
+Single-page site with professional summary, certifications, experience timeline, skills,
+a filterable project gallery, contact info, and key numbers.
 
-<p align="center">
-  <strong>Your unfair advantage in academia.</strong><br/>
-  Stop sending PDFs into the void. Build a living portfolio that boosts citations and lands offers.<br/>
-  Trusted by 250,000+ researchers at <strong>MIT, Stanford, and Google</strong>.
-</p>
+![Ahmed Mossad portfolio — homepage](.github/preview.png)
 
-<p align="center">
-  <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme"><b>🚀 Launch Free (60s)</b></a>
-  &nbsp;•&nbsp;
-  <a href="https://hugoblox.com/templates/?open=academic-cv&loading=true&utm_source=github&utm_medium=readme">Live Demo</a>
-  &nbsp;•&nbsp;
-  <a href="https://marketplace.visualstudio.com/items?itemName=ownable.ownable"><b>Visual Editor</b></a>
-</p>
+## Live site
 
-<p align="center">
-  <a href="https://discord.gg/z8wNYzb"><img src="https://img.shields.io/discord/722225264733716590?label=Join%20Discord&style=social" alt="Discord"></a>
-  <a href="https://github.com/HugoBlox/hugo-theme-academic-cv"><img src="https://img.shields.io/github/stars/HugoBlox/hugo-theme-academic-cv?label=Star%20Academic%20CV&style=social" alt="GitHub Stars"></a>
-</p>
+**https://ahmedm0ssad.github.io/**
 
----
+## Homepage sections
 
-## Why This Template?
+| # | Section | Block | Content |
+| - | ------------- | ------------------------ | ------------------------------------------------------- |
+| 1 | About | `resume-biography-3` | Hero, professional summary, education, **Download CV** |
+| 2 | Certifications | `resume-awards` | 3 industry certifications with verification links |
+| 3 | Experience | `resume-experience` | 10 roles & activities with dates and highlights |
+| 4 | Skills | `resume-skills` | 12 skill domains, grouped (no percentage bars) |
+| 5 | Projects | `portfolio` | All **56 projects**, tag-filterable (All + 5 categories) |
+| 6 | Contact | `contact-info` | Email, phone, location, GitHub & LinkedIn |
+| 7 | Stats | `stats` | 56 Projects · 10 Roles & Activities · 12 Skill Domains · 3 Certifications |
 
-Most CVs are static PDFs that get lost in the pile. This is an **intelligent portfolio** that works 24/7 to advance your career.
+## Where things live
 
-- **🔮 Future-Proof:** Your content lives in simple **Markdown**. No database to break, no lock-in.
-- **🤖 AI-Ready:** Optimized for search engines and LLMs, so your work is found and cited.
-- **⚡ Zero Maintenance:** Auto-import citations from BibTeX and focus on research.
-- **✍️ Edit Visually:** Use **Ownable CMS** in VS Code — no coding needed. Full capabilities in Pro.
+| Path | Purpose |
+| -------------------------------------- | ------------------------------------------------------------------ |
+| `content/_index.md` | Homepage — defines all sections and their design |
+| `data/authors/me.yaml` | **Single source of truth**: bio, experience, skills, certifications, contact |
+| `content/projects/` | 56 project pages; tags drive the section's filter buttons |
+| `assets/media/authors/me.png` | Avatar/monogram |
+| `static/uploads/resume.pdf` | The downloadable CV |
+| `config/_default/` | Hugo config (site params, menus, module mounts) |
+| `.github/workflows/deploy.yml` | GitHub Pages deployment workflow |
 
-<p align="center">
-  <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme">
-    <img src="https://img.shields.io/badge/⚡️%20Get%20Your%20CV%20in%2060s-ff4655?style=for-the-badge" 
-    alt="Deploy this template" width="400">
-  </a>
-</p>
+## Run locally
 
-![Ownable CMS in Action](https://raw.githubusercontent.com/HugoBlox/kit/main/.github/media/studio/slide-1.webp)
-*Ownable CMS: Drag-and-drop page builder inside VS Code.*
-
-> "My citations went up 3x after switching to this template. The citation auto-sync feature is a lifesaver."
-> — **Dr. Zhang**, AI Research Scientist, Meta
-
----
-
-## Who This Is For
-
-- Students and grads applying to top labs and industry roles
-- Researchers who want a living, citable portfolio
-- Faculty/PIs showcasing publications, talks, and group news
-
----
-
-## Features
-
-| Feature | Benefit |
-| :--- | :--- |
-| **Markdown, Jupyter, RStudio** | Write in the tools you already use. |
-| **Auto-Update Citations** | Drop in a BibTeX file; formatted lists generated automatically. |
-| **Visual Editor** | Drag-and-drop blocks to build pages in minutes. |
-| **Global CDN** | Blazing fast load times (100/100 Lighthouse scores). |
-| **Privacy First** | You own your data. Host for free on GitHub Pages. |
-
----
-
-## Notebook → Posts and Slides
-
-- Publish your actual `.ipynb` as beautiful long-form posts — code, outputs, and narrative kept intact.
-- Slides in Markdown with Reveal.js: math, syntax highlight, diagrams, speaker notes.
-- Coming soon: **Notebook → Slides (beta)**. Request early access in Discord.
-
-Learn more: docs on [Notebooks](https://docs.hugoblox.com/reference/markdown/#-notebooks) and [Slides](https://docs.hugoblox.com/guides/slides/).
-
----
-
-## Why Go Pro (from $8/m)
-
-- Enhanced Ownable CMS visual editor — save 10–20 hours setting up and polishing
-- Premium CV & Resumé designs — make an unforgettable first impression
-- Pro blocks, remove attribution, and priority support
-
----
-
-## Free vs Pro
-
-| Feature | Academic CV (Free) | Academic CV Pro & Resumé Pro |
-| --- | --- | --- |
-| Design | Professional & clean | Premium designs |
-| Layouts | Standard sections | Advanced timelines & layouts |
-| Courses/Lectures | Basic | Fully-Featured |
-| First Impression | Strong | Unforgettable |
-| Discord Support | Community | Priority |
-
-<p align="center">
-  <a href="https://hugoblox.com/pricing?utm_source=github&utm_medium=readme"><b>💎 Upgrade to Pro</b></a><br/>
-  <a href="https://hugoblox.com/templates/academic-cv-pro/start?utm_source=github&utm_medium=readme">✨ Deploy Academic CV Pro</a>
-  &nbsp;•&nbsp;
-  <a href="https://hugoblox.com/templates/resume-pro/start?utm_source=github&utm_medium=readme">📄 Deploy Resumé Pro</a>
-</p>
-
----
-
-## Get Started
-
-### Option 1: No-Code (Fastest)
-Launch a fully hosted site in your browser. No software to install.
-
-👉 [**Launch in Browser (Free)**](https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme)
-
-### Option 2: Studio (Visual Editor)
-1) Install [Ownable CMS](https://marketplace.visualstudio.com/items?itemName=ownable.ownable) for VS Code  
-2) Open this project and edit visually
-
-### Option 3: CLI (Developers)
-1) Install [Hugo](https://docs.hugoblox.com/start/cli/)
-2) Create your site with the CLI:
+Prerequisites: [Hugo extended](https://gohugo.io/installation/) (0.159+), [Go](https://go.dev/) 1.19+, Node.js for the Tailwind toolchain.
 
 ```bash
-npx hugoblox create site --template academic-cv
+npm install                          # Tailwind CSS v4 + pagefind toolchain (pnpm works too)
+hugo --cleanDestinationDir --gc -d public   # production build into ./public
+hugo server --disableFastRender      # dev server at http://localhost:1313
 ```
 
----
+> Tip: use `--cleanDestinationDir` when building repeatedly — it purges stale output that `--gc` alone won't remove.
 
-## FAQ
+## Deployment
 
-- Do I need to know Hugo? No — you can edit visually or write Markdown.
-- Can I host for free? Yes — GitHub Pages/Netlify are supported.
-- Can I export/migrate later? Yes — your site is just files.
-- Can I cancel Pro anytime? Yes.
+Deploys automatically and for free via **GitHub Pages**:
 
----
+- Every push to `main` runs the *Deploy website to GitHub Pages* workflow ([Actions tab](https://github.com/ahmedm0ssad/ahmedm0ssad.github.io/actions)).
+- It can also be triggered manually with `workflow_dispatch`.
+- No changes needed beyond editing content — push and the site updates in ~1 minute.
 
-## Community & Support
+> **Visibility note:** this repo is currently **private**. On GitHub Free, new Pages deployments from a private repo can be restricted; the live site keeps serving the last successful deployment. If a future deploy is blocked, setting the repo back to public restores normal deploys.
 
-- 💬 [**Discord Community**](https://discord.gg/z8wNYzb)
-- 📚 [**Documentation**](https://docs.hugoblox.com/?utm_source=github&utm_medium=readme)
-- 🐦 [**Follow on X**](https://x.com/MakeOwnable)
-- ⭐ [**Star on GitHub**](https://github.com/HugoBlox/kit)
+## Contact
 
----
+- **Email:** ahmed.abdelfattah.mossad@gmail.com
+- **LinkedIn:** [ahmed-mossad-4528202b2](https://linkedin.com/in/ahmed-mossad-4528202b2)
+- **GitHub:** [@ahmedm0ssad](https://github.com/ahmedm0ssad)
 
-MIT © 2016-Present [George Cushen](https://georgecushen.com)
+## Credits
 
-<!--START_SECTION:news-->
-<!--END_SECTION:news-->
+Built on the open-source [Hugo Blox Academic CV template](https://github.com/HugoBlox/hugo-theme-academic-cv)
+(MIT © [George Cushen](https://georgecushen.com)), styled with Tailwind CSS v4.
+Site content © Ahmed Mossad — see [LICENSE.md](LICENSE.md) for the template license.
