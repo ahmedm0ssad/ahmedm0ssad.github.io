@@ -1,0 +1,506 @@
+[
+  {
+    "num": 1,
+    "slug": "XAI-Credit-Risk-Assessment",
+    "title": "Explainable AI (XAI) for Credit Risk Assessment",
+    "domain": "AI / LLM / RAG",
+    "repoUrl": "https://github.com/ahmedm0ssad/XAI-Credit-Risk-Assessment",
+    "dateIso": "2025-01-15",
+    "dateText": "2025 · **Language:** Python"
+  },
+  {
+    "num": 2,
+    "slug": "Local-RAG-Document-Assistant",
+    "title": "Local RAG-Powered Document Assistant",
+    "domain": "AI / LLM / RAG",
+    "repoUrl": "https://github.com/ahmedm0ssad/Local-RAG-Document-Assistant",
+    "dateIso": "2025-01-15",
+    "dateText": "2025 · **Language:** Python"
+  },
+  {
+    "num": 3,
+    "slug": "Arxiv-RAG-Webapp",
+    "title": "arXiv RAG Web Application",
+    "domain": "AI / LLM / RAG",
+    "repoUrl": "https://github.com/ahmedm0ssad/Arxiv-RAG-Webapp",
+    "dateIso": "2025-01-15",
+    "dateText": "2024 · **Language:** Python"
+  },
+  {
+    "num": 4,
+    "slug": "RAG-Optimization-System",
+    "title": "RAG System with ML Intelligence (CSAI 302 — Advanced Database)",
+    "domain": "AI / LLM / RAG",
+    "repoUrl": "https://github.com/ahmedm0ssad/RAG-Optimization-System",
+    "dateIso": "2025-01-15",
+    "dateText": "2024–2025 · **Language:** Python"
+  },
+  {
+    "num": 5,
+    "slug": "LLM-Optimization",
+    "title": "LLM Benchmarking and Optimization Framework",
+    "domain": "AI / LLM / RAG",
+    "repoUrl": "https://github.com/ahmedm0ssad/LLM-Optimization",
+    "dateIso": "2025-01-15",
+    "dateText": "04/2025 · **Language:** Python"
+  },
+  {
+    "num": 6,
+    "slug": "Digital-Librarian",
+    "title": "The Digital Librarian (DSAI 427 — Big Data)",
+    "domain": "Big Data & Distributed Systems",
+    "repoUrl": "https://github.com/ahmedm0ssad/Digital-Librarian",
+    "dateIso": "2025-01-15",
+    "dateText": "2024–2025 · **Languages:** Java + Python"
+  },
+  {
+    "num": 7,
+    "slug": "NYC-Taxi-Spark-Analysis",
+    "title": "NYC Taxi Trip Duration & Telco Churn Analysis (DSAI 427)",
+    "domain": "Big Data & Distributed Systems",
+    "repoUrl": "https://github.com/ahmedm0ssad/NYC-Taxi-Spark-Analysis",
+    "dateIso": "2025-01-15",
+    "dateText": "2024–2025 · **Language:** Python (PySpark)"
+  },
+  {
+    "num": 8,
+    "slug": "Real-Time-Recommendation-System",
+    "title": "Real-Time Movie Recommendation System (Big Data Capstone)",
+    "domain": "Big Data & Distributed Systems",
+    "repoUrl": "https://github.com/ahmedm0ssad/Real-Time-Recommendation-System",
+    "dateIso": "2025-01-15",
+    "dateText": ""
+  },
+  {
+    "num": 9,
+    "slug": "Smart-Triangle",
+    "title": "Smart Triangle — Senior Graduation Project",
+    "domain": "Full-Stack / Software Engineering",
+    "repoUrl": null,
+    "dateIso": "2025-01-15",
+    "dateText": ""
+  },
+  {
+    "num": 10,
+    "slug": "Fanni-3lbab",
+    "title": "Fanni-3lbab: Artisan Service Platform",
+    "domain": "Full-Stack / Software Engineering",
+    "repoUrl": "https://github.com/ahmedm0ssad/Fanni-3lbab",
+    "dateIso": "2025-01-15",
+    "dateText": "January 2025 · **Languages:** JavaScript, TypeScript, Python, SQL"
+  },
+  {
+    "num": 11,
+    "slug": "Education-Management-System",
+    "title": "Education Management System",
+    "domain": "Full-Stack / Software Engineering",
+    "repoUrl": "https://github.com/ahmedm0ssad/Education-Management-System",
+    "dateIso": "2024-01-15",
+    "dateText": "January 2024 · **Languages:** HTML/CSS/JavaScript, C# (ASP.NET Core)"
+  },
+  {
+    "num": 12,
+    "slug": "Data-Visualization-Web-App",
+    "title": "Data Visualization and Analysis Web Application",
+    "domain": "Full-Stack / Software Engineering",
+    "repoUrl": "https://github.com/ahmedm0ssad/Data-Visualization-Web-App",
+    "dateIso": "2024-01-15",
+    "dateText": "January 2024 · **Language:** Python"
+  },
+  {
+    "num": 13,
+    "slug": "End-To-End-MLOps-Pipeline",
+    "title": "End-to-End MLOps Pipeline (Advanced / Standalone)",
+    "domain": "MLOps",
+    "repoUrl": "https://github.com/ahmedm0ssad/End-To-End-MLOps-Pipeline",
+    "dateIso": "2025-01-15",
+    "dateText": "2026 · **Language:** Python"
+  },
+  {
+    "num": 14,
+    "slug": "Speech-Recognition-Pipeline",
+    "title": "DSAI 456 Speech Recognition — Course Project Series",
+    "domain": "Natural Language Processing / Speech Recognition",
+    "repoUrl": "https://github.com/ahmedm0ssad/Speech-Recognition-Pipeline",
+    "dateIso": "2025-01-15",
+    "dateText": "2024–2025 (6 Assignments) · ZC-UST"
+  },
+  {
+    "num": 15,
+    "slug": "Word-Embedding-Models-Classification",
+    "title": "Natural Language Processing: Advanced Word Embedding Models Classification",
+    "domain": "Natural Language Processing / Speech Recognition",
+    "repoUrl": "https://github.com/ahmedm0ssad/Word-Embedding-Models-Classification",
+    "dateIso": "2025-01-15",
+    "dateText": "05/2025 · **Language:** Python"
+  },
+  {
+    "num": 16,
+    "slug": "Information-Retrieval-System",
+    "title": "Information Retrieval System Development",
+    "domain": "Natural Language Processing / Speech Recognition",
+    "repoUrl": "https://github.com/ahmedm0ssad/Information-Retrieval-System",
+    "dateIso": "2024-05-15",
+    "dateText": "May 2024 · **Language:** Python (PyTerrier)"
+  },
+  {
+    "num": 17,
+    "slug": "Nature-Inspired-Computation",
+    "title": "Nature-Inspired Optimization for Sentiment Analysis (DSAI 403 Capstone)",
+    "domain": "Nature-Inspired Optimization",
+    "repoUrl": "https://github.com/ahmedm0ssad/Nature-Inspired-Computation",
+    "dateIso": "2025-01-15",
+    "dateText": ""
+  },
+  {
+    "num": 18,
+    "slug": "Nature-Inspired-Optimization-Library",
+    "title": "Nature-Inspired Optimization Library (DSAI 403)",
+    "domain": "Nature-Inspired Optimization",
+    "repoUrl": "https://github.com/ahmedm0ssad/Nature-Inspired-Optimization-Library",
+    "dateIso": "2025-01-15",
+    "dateText": ""
+  },
+  {
+    "num": 19,
+    "slug": "RL-Algorithms-From-Scratch",
+    "title": "DSAI 402 Reinforcement Learning — Assignment Series",
+    "domain": "Reinforcement Learning",
+    "repoUrl": "https://github.com/ahmedm0ssad/RL-Algorithms-From-Scratch",
+    "dateIso": "2025-09-15",
+    "dateText": "Fall 2025 (4th Year, 6 Assignments)"
+  },
+  {
+    "num": 20,
+    "slug": "3D-Drone-Navigation",
+    "title": "3D Drone Navigation System with Reinforcement Learning",
+    "domain": "Reinforcement Learning",
+    "repoUrl": "https://github.com/ahmedm0ssad/3D-Drone-Navigation",
+    "dateIso": "2025-01-15",
+    "dateText": "January 2025 · **Language:** Python"
+  },
+  {
+    "num": 21,
+    "slug": "YOLO-SORT-Person-Tracker",
+    "title": "Person Tracking and Path Visualization System",
+    "domain": "Deep Learning / Computer Vision",
+    "repoUrl": "https://github.com/ahmedm0ssad/YOLO-SORT-Person-Tracker",
+    "dateIso": "2025-04-15",
+    "dateText": "April 2025 · **Language:** Python"
+  },
+  {
+    "num": 22,
+    "slug": "Image-Processing-Toolkit",
+    "title": "Image Enhancement Project for Computer Vision",
+    "domain": "Deep Learning / Computer Vision",
+    "repoUrl": "https://github.com/ahmedm0ssad/Image-Processing-Toolkit",
+    "dateIso": "2025-04-15",
+    "dateText": "April 2025 · **Language:** Python"
+  },
+  {
+    "num": 23,
+    "slug": "YOLO-Model-Comparison",
+    "title": "YOLO Object Detection and Tracking Comparison (v10 vs v11 vs v12)",
+    "domain": "Deep Learning / Computer Vision",
+    "repoUrl": "https://github.com/ahmedm0ssad/YOLO-Model-Comparison",
+    "dateIso": "2025-01-15",
+    "dateText": "2023–2024 · **Language:** Python"
+  },
+  {
+    "num": 24,
+    "slug": "SIFT-Texture-Image-Retrieval",
+    "title": "Content-Based Image Retrieval with SIFT Features",
+    "domain": "Deep Learning / Computer Vision",
+    "repoUrl": "https://github.com/ahmedm0ssad/SIFT-Texture-Image-Retrieval",
+    "dateIso": "2025-01-15",
+    "dateText": ""
+  },
+  {
+    "num": 25,
+    "slug": "Fourier-Transform-Image-Processing",
+    "title": "Fourier Transform-Based Image Processing and Filtering",
+    "domain": "Deep Learning / Computer Vision",
+    "repoUrl": "https://github.com/ahmedm0ssad/Fourier-Transform-Image-Processing",
+    "dateIso": "2025-05-15",
+    "dateText": "May 2025 · **Language:** Python"
+  },
+  {
+    "num": 26,
+    "slug": "Spatial-Domain-Image-Processing",
+    "title": "Computer Vision: Spatial Domain Image Processing",
+    "domain": "Deep Learning / Computer Vision",
+    "repoUrl": "https://github.com/ahmedm0ssad/Spatial-Domain-Image-Processing",
+    "dateIso": "2023-04-15",
+    "dateText": "Spring 2023 (3rd Year, Semester 2) · **Language:** Python"
+  },
+  {
+    "num": 27,
+    "slug": "Galaxy-Morphology-Classification",
+    "title": "Galaxy Morphology Classification System",
+    "domain": "Deep Learning / Computer Vision",
+    "repoUrl": "https://github.com/ahmedm0ssad/Galaxy-Morphology-Classification",
+    "dateIso": "2025-01-15",
+    "dateText": "January 2025 · **Language:** Python"
+  },
+  {
+    "num": 28,
+    "slug": "Time-Series-Prediction-DL",
+    "title": "Time Series Prediction with Deep Learning Models",
+    "domain": "Deep Learning / Computer Vision",
+    "repoUrl": "https://github.com/ahmedm0ssad/Time-Series-Prediction-DL",
+    "dateIso": "2023-09-15",
+    "dateText": "Fall 2023 · **Language:** Python"
+  },
+  {
+    "num": 29,
+    "slug": "Pet-Image-Denoising-Autoencoder",
+    "title": "Pet Image Denoising with Convolutional Autoencoders",
+    "domain": "Deep Learning / Computer Vision",
+    "repoUrl": "https://github.com/ahmedm0ssad/Pet-Image-Denoising-Autoencoder",
+    "dateIso": "2025-01-15",
+    "dateText": "2023 · **Language:** Python"
+  },
+  {
+    "num": 30,
+    "slug": "Siamese-Fashion-Similarity",
+    "title": "Siamese Neural Network for Fashion Image Similarity Detection",
+    "domain": "Deep Learning / Computer Vision",
+    "repoUrl": "https://github.com/ahmedm0ssad/Siamese-Fashion-Similarity",
+    "dateIso": "2025-01-15",
+    "dateText": "2023 · **Language:** Python"
+  },
+  {
+    "num": 31,
+    "slug": "Facial-Recognition-Transfer-Learning",
+    "title": "Facial Recognition System with Deep Learning Transfer Learning",
+    "domain": "Deep Learning / Computer Vision",
+    "repoUrl": "https://github.com/ahmedm0ssad/Facial-Recognition-Transfer-Learning",
+    "dateIso": "2025-01-15",
+    "dateText": "2023 · **Language:** Python"
+  },
+  {
+    "num": 32,
+    "slug": "Flower-Classification-CNN",
+    "title": "Flower Classification using Convolutional Neural Networks",
+    "domain": "Deep Learning / Computer Vision",
+    "repoUrl": "https://github.com/ahmedm0ssad/Flower-Classification-CNN",
+    "dateIso": "2025-01-15",
+    "dateText": "2023 · **Language:** Python"
+  },
+  {
+    "num": 33,
+    "slug": "AutoEncoder-VariationalAutoEncoder",
+    "title": "Representation Learning with Autoencoders (DSAI 490 — Assignment 1)",
+    "domain": "Deep Learning / Computer Vision",
+    "repoUrl": "https://github.com/ahmedm0ssad/AutoEncoder-VariationalAutoEncoder",
+    "dateIso": "2025-01-15",
+    "dateText": ""
+  },
+  {
+    "num": 34,
+    "slug": "Generative-Date-Synthesis",
+    "title": "Conditional Date Synthesis with Deep Generative Models (DSAI 490 — Assignment 2)",
+    "domain": "Deep Learning / Computer Vision",
+    "repoUrl": "https://github.com/ahmedm0ssad/Generative-Date-Synthesis",
+    "dateIso": "2025-01-15",
+    "dateText": ""
+  },
+  {
+    "num": 35,
+    "slug": "Statistical-Inference-Diabetes",
+    "title": "Statistical Inference for Diabetes Dataset Analysis",
+    "domain": "Classical Machine Learning",
+    "repoUrl": "https://github.com/ahmedm0ssad/Statistical-Inference-Diabetes",
+    "dateIso": "2025-01-15",
+    "dateText": "January 2025 · **Language:** R"
+  },
+  {
+    "num": 36,
+    "slug": "Central-Limit-Theorem-Demo",
+    "title": "Central Limit Theorem Simulation and Analysis",
+    "domain": "Classical Machine Learning",
+    "repoUrl": "https://github.com/ahmedm0ssad/Central-Limit-Theorem-Demo",
+    "dateIso": "2025-01-15",
+    "dateText": "2025 · **Languages:** R and Python (parallel implementations)"
+  },
+  {
+    "num": 37,
+    "slug": "Health-Data-Prediction-ML",
+    "title": "Health Data Analysis and Prediction Using Machine Learning Models",
+    "domain": "Classical Machine Learning",
+    "repoUrl": "https://github.com/ahmedm0ssad/Health-Data-Prediction-ML",
+    "dateIso": "2024-05-15",
+    "dateText": "May 2024 · **Language:** Python"
+  },
+  {
+    "num": 38,
+    "slug": "Titanic-Naive-Bayes",
+    "title": "Titanic Survival Prediction with Naive Bayes Classifier",
+    "domain": "Classical Machine Learning",
+    "repoUrl": "https://github.com/ahmedm0ssad/Titanic-Naive-Bayes",
+    "dateIso": "2024-04-15",
+    "dateText": "Spring 2024 · **Language:** Python"
+  },
+  {
+    "num": 39,
+    "slug": "Neural-Network-From-Scratch",
+    "title": "Neural Network from Scratch — Logistic Regression for Heart Disease",
+    "domain": "Classical Machine Learning",
+    "repoUrl": "https://github.com/ahmedm0ssad/Neural-Network-From-Scratch",
+    "dateIso": "2024-04-15",
+    "dateText": "Spring 2024 · **Language:** Python"
+  },
+  {
+    "num": 40,
+    "slug": "SVM-Clustering-Analysis",
+    "title": "Support Vector Machine Clustering Analysis",
+    "domain": "Classical Machine Learning",
+    "repoUrl": "https://github.com/ahmedm0ssad/SVM-Clustering-Analysis",
+    "dateIso": "2024-04-15",
+    "dateText": "Spring 2024 · **Language:** Python"
+  },
+  {
+    "num": 41,
+    "slug": "Linear-Regression-From-Scratch",
+    "title": "Linear Regression and Classification from Scratch with Dimensionality Reduction",
+    "domain": "Classical Machine Learning",
+    "repoUrl": "https://github.com/ahmedm0ssad/Linear-Regression-From-Scratch",
+    "dateIso": "2025-05-15",
+    "dateText": "May 2025 · **Language:** Python"
+  },
+  {
+    "num": 42,
+    "slug": "KNN-From-Scratch",
+    "title": "K-Nearest Neighbors (KNN) from Scratch for Iris Dataset",
+    "domain": "Classical Machine Learning",
+    "repoUrl": "https://github.com/ahmedm0ssad/KNN-From-Scratch",
+    "dateIso": "2025-04-15",
+    "dateText": "Spring 2025 · **Language:** Python"
+  },
+  {
+    "num": 43,
+    "slug": "Adam-Optimization-Implementation",
+    "title": "Adam Optimization Algorithm Implementation",
+    "domain": "Classical Machine Learning",
+    "repoUrl": "https://github.com/ahmedm0ssad/Adam-Optimization-Implementation",
+    "dateIso": "2025-01-15",
+    "dateText": "January 2025 · **Language:** Python"
+  },
+  {
+    "num": 44,
+    "slug": "Optimization-Algorithms",
+    "title": "1D and Multidimensional Optimization Algorithms",
+    "domain": "Classical Machine Learning",
+    "repoUrl": "https://github.com/ahmedm0ssad/Optimization-Algorithms",
+    "dateIso": "2025-01-15",
+    "dateText": "January 2025 · **Language:** Python"
+  },
+  {
+    "num": 45,
+    "slug": "Revised-Simplex-Method",
+    "title": "Revised Simplex Method Implementation",
+    "domain": "Classical Machine Learning",
+    "repoUrl": "https://github.com/ahmedm0ssad/Revised-Simplex-Method",
+    "dateIso": "2025-01-15",
+    "dateText": "January 2025 · **Language:** Python"
+  },
+  {
+    "num": 46,
+    "slug": "Fuel-Consumption-Analysis",
+    "title": "Fuel Consumption Analysis",
+    "domain": "Classical Machine Learning",
+    "repoUrl": "https://github.com/ahmedm0ssad/Fuel-Consumption-Analysis",
+    "dateIso": "2024-05-15",
+    "dateText": "May 2024 · **Language:** Python"
+  },
+  {
+    "num": 47,
+    "slug": "Adaptive-Huffman-Coding",
+    "title": "Adaptive Huffman Coding Algorithm Implementation",
+    "domain": "Data Compression / Information Theory (DSAI 325 — Java)",
+    "repoUrl": "https://github.com/ahmedm0ssad/Adaptive-Huffman-Coding",
+    "dateIso": "2025-01-15",
+    "dateText": ""
+  },
+  {
+    "num": 48,
+    "slug": "Color-Vector-Quantization",
+    "title": "Color Vector Quantization Image Compression System",
+    "domain": "Data Compression / Information Theory (DSAI 325 — Java)",
+    "repoUrl": "https://github.com/ahmedm0ssad/Color-Vector-Quantization",
+    "dateIso": "2025-04-15",
+    "dateText": "April 2025 · **Language:** Java"
+  },
+  {
+    "num": 49,
+    "slug": "Vector-Quantization-Compression",
+    "title": "Vector Quantization Image Compression System",
+    "domain": "Data Compression / Information Theory (DSAI 325 — Java)",
+    "repoUrl": "https://github.com/ahmedm0ssad/Vector-Quantization-Compression",
+    "dateIso": "2025-01-15",
+    "dateText": "2023 · **Language:** Java"
+  },
+  {
+    "num": 50,
+    "slug": "Predictive-Coding-Compression",
+    "title": "2-D Feed Backward Predictive Coding for Image Compression",
+    "domain": "Data Compression / Information Theory (DSAI 325 — Java)",
+    "repoUrl": "https://github.com/ahmedm0ssad/Predictive-Coding-Compression",
+    "dateIso": "2025-04-15",
+    "dateText": "April 2025 · **Language:** Java"
+  },
+  {
+    "num": 51,
+    "slug": "LZ78-Compression",
+    "title": "LZ78 Compression Algorithm Implementation",
+    "domain": "Data Compression / Information Theory (DSAI 325 — Java)",
+    "repoUrl": "https://github.com/ahmedm0ssad/LZ78-Compression",
+    "dateIso": "2025-01-15",
+    "dateText": ""
+  },
+  {
+    "num": 52,
+    "slug": "LZ77-Compression",
+    "title": "LZ77 Compression Algorithm Implementation",
+    "domain": "Data Compression / Information Theory (DSAI 325 — Java)",
+    "repoUrl": "https://github.com/ahmedm0ssad/LZ77-Compression",
+    "dateIso": "2025-01-15",
+    "dateText": ""
+  },
+  {
+    "num": 53,
+    "slug": "Huffman-Compression",
+    "title": "Huffman Coding Data Compression System",
+    "domain": "Data Compression / Information Theory (DSAI 325 — Java)",
+    "repoUrl": "https://github.com/ahmedm0ssad/Huffman-Compression",
+    "dateIso": "2025-01-15",
+    "dateText": "2024–2025 · **Language:** Java"
+  },
+  {
+    "num": 54,
+    "slug": "Network-File-Transfer-System",
+    "title": "Network File Transfer and Communication System",
+    "domain": "Systems / Networking",
+    "repoUrl": "https://github.com/ahmedm0ssad/Network-File-Transfer-System",
+    "dateIso": "2024-05-15",
+    "dateText": "May 2024 · **Language:** Python"
+  },
+  {
+    "num": 55,
+    "slug": "YouTube-Video-Search-Analysis",
+    "title": "YouTube Video Search and Analysis",
+    "domain": "Data Collection / Miscellaneous",
+    "repoUrl": "https://github.com/ahmedm0ssad/YouTube-Video-Search-Analysis",
+    "dateIso": "2024-01-15",
+    "dateText": "January 2024 · **Language:** Python"
+  },
+  {
+    "num": 56,
+    "slug": "Image-Featuring-Labeling",
+    "title": "Image Featuring & Labeling",
+    "domain": "Data Collection / Miscellaneous",
+    "repoUrl": "https://github.com/ahmedm0ssad/Image-Featuring-Labeling",
+    "dateIso": "2024-01-15",
+    "dateText": "January 2024 · **Language:** Python"
+  }
+]

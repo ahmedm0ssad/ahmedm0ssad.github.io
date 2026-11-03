@@ -1,0 +1,421 @@
+---
+# Author profile for Ahmed Mossad
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Ahmed Mossad
+  given: Ahmed
+  family: Mossad
+  alternate: ''
+  pronunciation: ''
+  pronouns: he/him
+postnominals:
+  - B.Sc. DSAI
+status:
+  icon: "🤖"
+role: AI Engineer — Data Science & AI
+bio: |
+  AI Engineer with a B.Sc. in Data Science & AI and hands-on FastAPI, PostgreSQL, Redis, and background-job experience from a completed backend AI internship at FlyRank. Built an embeddable lead-capture widget platform with authenticated multi-tenant APIs, rate limiting, spam filtering, async jobs, and a 100%-coverage test suite. Currently a Machine Learning Intern at FlyRank (Oct 2026 – Present) focusing on model training, evaluation, and production integration. Also completed AI Fluency internship at FlyRank and MEAN Stack training at NTI. Strong in RAG/LLM systems (pgvector, LlamaIndex, Groq LLMs), Docker/CI-CD deployment, MLOps, and production-oriented backend architecture.
+
+affiliations:
+  - name: FlyRank
+    url: https://flyrank.com/
+  - name: Zewail City of Science and Technology
+    url: https://zewailcity.edu.eg/
+
+links:
+  - icon: at-symbol
+    url: mailto:ahmed.abdelfattah.mossad@gmail.com
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/ahmedm0ssad
+  - icon: brands/linkedin
+    url: https://linkedin.com/in/ahmed-mossad-4528202b2
+  - icon: brands/x
+    url: https://x.com/ahmedm0ssad
+  - icon: hero/phone
+    url: tel:+201029638868
+    label: +20 102 963 8868
+  - icon: hero/map-pin
+    url: https://maps.app.goo.gl/
+    label: Giza, Egypt
+
+interests:
+  - RAG & LLM Systems
+  - MLOps & Production ML
+  - Backend Engineering (FastAPI, PostgreSQL, Redis)
+  - Computer Vision & Deep Learning
+  - Reinforcement Learning
+  - Nature-Inspired Optimization
+  - Big Data & Distributed Systems
+  - Speech Recognition & NLP
+
+education:
+  - degree: B.Sc. in Data Science and Artificial Intelligence
+    institution: Zewail City of Science and Technology
+    start: 2022-09-01
+    end: 2026-06-30
+    summary: |
+      Relevant Coursework: Machine Learning, Deep Learning, NLP, MLOps (DSAI 406), Information Retrieval, Probability & Statistics, Linear Algebra, Calculus I & II, Data Structures & Algorithms, Experimental Design and Data Analysis, Scientific Computing, Numerical Optimization Methods, Advanced Database (CSAI 302), Information Theory (DSAI 325), Reinforcement Learning (DSAI 402), Nature Inspired Computation (DSAI 403), Big Data (DSAI 427), Speech Recognition (DSAI 456), Selected Topics in Deep Learning / GANs (DSAI 490), Linear and Non-linear Mathematics (MATH 303), Senior Graduation Project (CSAI 498/499)
+    button:
+      text: View CV
+      url: /uploads/resume.pdf
+      icon: hero/arrow-down-tray
+
+experience:
+  - role: Machine Learning Intern
+    org: FlyRank
+    start: 2026-10-01
+    end: present
+    summary: |
+      Assist in developing, training, and evaluating machine learning models using Python, PyTorch, and scikit-learn. Prepare, clean, and analyze datasets for ML pipelines; perform feature engineering and data preprocessing. Conduct experiments, hyperparameter tuning, and model performance evaluation across multiple algorithms. Collaborate with engineering teams to integrate ML models into production services and APIs. Research and prototype new ML techniques, document experiments, and maintain reproducible workflows.
+    location: Chicago, IL, USA (Remote)
+    tags:
+      - Python
+      - PyTorch
+      - scikit-learn
+      - Machine Learning
+      - Model Training
+      - Hyperparameter Tuning
+
+  - role: Backend AI Engineering Intern
+    org: FlyRank
+    start: 2026-07-01
+    end: 2026-09-30
+    summary: |
+      Built an embeddable widget and lead-capture platform in FastAPI: tenant-isolated widget CRUD, embeddable versioned JS bundle with immutable HTTP cache headers, and cache-busting on widget update. Designed a defense-in-depth public submission pipeline — Pydantic boundary validation, CORS/preflight handling, 3-tier rate limiting (429 + Retry-After), origin checks, honeypot and heuristic spam scoring, and fingerprint dedup. Implemented async background jobs with Redis + RQ: IP-to-geo enrichment through a provider fallback chain, fail-open fire-and-forget webhooks, and Groq LLM inference jobs with retry/backoff and idempotency keys. Architected a layered router/service/repository backend with Protocol-typed repositories and dependency injection; parameterized SQL with tenant isolation on every query, with SQLite/PostgreSQL/in-memory backends swappable. Maintained a 938-test suite at 100% coverage plus a GitHub Actions CI pipeline (isort → black → ruff → pytest) and a Docker Compose stack (FastAPI, PostgreSQL 16, Redis 7).
+    location: Chicago, IL, USA (Remote)
+    tags:
+      - FastAPI
+      - PostgreSQL
+      - Redis
+      - RQ
+      - Docker
+      - GitHub Actions
+      - Groq LLM
+      - Multi-tenancy
+      - Rate Limiting
+      - Spam Filtering
+      - 100% Test Coverage
+
+  - role: AI Fluency Intern
+    org: FlyRank
+    start: 2026-06-01
+    end: 2026-07-31
+    summary: |
+      Completed the FlyRank General AI Fluency track: built a personal AI operating system across Mindset, Practice, Output, and Judgment dimensions of the AI Builder Ladder. Designed and documented a repeatable daily AI workflow with clear handoffs between chat, IDE, and automation tools (Claude, ChatGPT, Cursor). Shipped a public portfolio artifact demonstrating AI as a core partner — live, verifiable work rather than passive course completion. Built a personal quality checklist for evaluating AI output (accuracy, context, tone, completeness) and a failure-mode log with process improvements. Completed 5+ assignments and a reviewed capstone; earned verifiable AI Fluency credential with public verification link.
+    location: Chicago, IL, USA (Remote)
+    tags:
+      - AI Fluency
+      - Prompt Engineering
+      - LLM Workflows
+      - AI Evaluation
+      - Claude
+      - ChatGPT
+      - Cursor
+
+  - role: MEAN Stack Web Development Trainee
+    org: National Telecommunication Institute (NTI)
+    start: 2026-08-01
+    end: 2026-09-30
+    summary: |
+      Completed the Advanced Summer Training Program 2026, focusing on MEAN Stack Web Development. Developed practical full-stack web development skills across frontend, backend, APIs, and database integration. Built familiarity with the JavaScript/TypeScript ecosystem and modern web application architecture.
+    location: Egypt (In collaboration with ITIDA)
+    tags:
+      - MongoDB
+      - Express.js
+      - Angular
+      - Node.js
+      - TypeScript
+      - Full-Stack Development
+
+  - role: Programming Instructor
+    org: GEEK CODE
+    start: 2026-06-01
+    end: 2026-07-31
+    summary: |
+      Delivered one-to-one programming instruction for students aged 12–15 in Python and Scratch, adapting explanations and learning activities to each student's skill level and learning pace. Taught core programming concepts including variables, conditionals, loops, functions, problem-solving, and project-based development through interactive sessions. Assessed student progress through continuous evaluation, practical exercises, and personalized feedback to reinforce understanding and improve performance. Contributed to curriculum improvement by providing feedback and recommendations on course content, learning activities, and instructional materials.
+    location: Remote
+    tags:
+      - Python
+      - Scratch
+      - Teaching
+      - Curriculum Design
+      - One-on-One Instruction
+
+  - role: Programming Tutor & Content Creator
+    org: Bonyan
+    start: 2025-01-01
+    end: 2026-12-31
+    summary: |
+      Taught programming fundamentals to children across multiple age groups in both classroom and online settings — variables, loops, functions, conditionals, and project-based logic. Designed age-appropriate curricula from scratch: broke abstract technical concepts into visual, hands-on activities matched to each learner's level and pace. Created engaging mini-projects and coding challenges that maintain student motivation and make progress visible and rewarding. Adapted teaching style between younger beginners and more advanced students; patient, clear, and encouraging at every level. Developed educational content tailored for children, combining hands-on exercises with engaging explanations to improve learning outcomes.
+    location: Online & On-site
+    tags:
+      - Teaching
+      - Curriculum Design
+      - Python
+      - Child Education
+      - Content Creation
+
+  - role: AI Model Testing Specialist (Freelance)
+    org: Outlier
+    start: 2024-10-01
+    end: 2025-01-31
+    summary: |
+      Designed and optimized prompts for large-scale LLMs; built evaluation frameworks to assess and debug model outputs. Identified behavioral failure patterns, improving response quality and reliability for enterprise applications. Evaluated, ranked, and debugged AI-generated responses. Created evaluation frameworks and identified common issues in model responses to improve performance.
+    location: Remote
+    tags:
+      - LLM Evaluation
+      - Prompt Engineering
+      - AI Testing
+      - Quality Assurance
+      - Debugging
+
+  - role: Lead Backend and AI Engine Engineer
+    org: Smart Triangle (Graduation Project)
+    start: 2025-01-01
+    end: 2026-06-30
+    summary: |
+      Architected a full-stack adaptive learning system with three role-based portals (Student, Parent, Tutor) — 25 features, 42 API endpoints, 17 database tables, deployed to Azure Container Apps via CI/CD pipeline. Zero paid infrastructure ($0/month). Built an ETT (Explain The Topic) RAG engine: embeds student queries locally with BAAI/bge-base-en-v1.5, retrieves curriculum chunks via pgvector cosine similarity search, and streams grounded answers via Groq LLM with SSE — end-to-end latency under 2.7 seconds. Implemented an Adaptive Exam Engine selecting difficulty per topic based on historical performance; added deep error analysis grounded in curriculum content for each wrong answer. Designed a real-time alert system for parents and tutors using Supabase Realtime (WebSocket), with rule-based at-risk detection and Red/Yellow/Green readiness scoring per student. Enforced JWT auth, Row-Level Security (RLS), and role-based access at both API and database level; full auth pipeline: JWT refresh tokens, SHA-256 + bcrypt, OTP, Google OAuth. Approximately 2,600 lines of async tests across 13 test files; 30+ mobile screens.
+    location: Zewail City of Science and Technology
+    tags:
+      - FastAPI
+      - PostgreSQL
+      - pgvector
+      - LlamaIndex
+      - Groq API
+      - React Native
+      - Expo
+      - Docker
+      - Azure Container Apps
+      - CI/CD
+      - JWT
+      - RLS
+      - WebSocket
+      - RAG
+
+  - role: Event Coordinator
+    org: Khair ZC, Zewail City
+    start: 2023-02-01
+    end: 2023-06-30
+    summary: |
+      Led logistics and operations for large charity events. Developed stakeholder communication, teamwork, and organizational skills.
+    location: Giza, Egypt
+    tags:
+      - Event Management
+      - Leadership
+      - Stakeholder Communication
+      - Teamwork
+      - Operations
+
+  - role: Member
+    org: Service Union, Zewail City
+    start: 2022-10-01
+    end: 2023-02-28
+    summary: |
+      Collaborated on campus community projects; demonstrated initiative and responsibility in a team environment.
+    location: Giza, Egypt
+    tags:
+      - Community Service
+      - Teamwork
+      - Initiative
+      - Campus Projects
+
+skills:
+  - name: Languages
+    items:
+      - label: Python
+        level: 5
+      - label: JavaScript/TypeScript
+        level: 5
+      - label: SQL
+        level: 5
+      - label: R
+        level: 4
+      - label: C/C++
+        level: 4
+      - label: Java
+        level: 4
+      - label: Bash
+        level: 4
+
+  - name: AI / Machine Learning
+    items:
+      - label: PyTorch
+        level: 5
+      - label: TensorFlow / Keras
+        level: 5
+      - label: Scikit-learn
+        level: 5
+      - label: HuggingFace Transformers
+        level: 5
+      - label: XGBoost / LightGBM
+        level: 5
+      - label: SHAP / LIME
+        level: 5
+      - label: OpenCV
+        level: 5
+
+  - name: Generative AI & LLM
+    items:
+      - label: RAG Pipelines
+        level: 5
+      - label: LlamaIndex
+        level: 5
+      - label: LangChain
+        level: 4
+      - label: FAISS / pgvector / ChromaDB
+        level: 5
+      - label: Sentence-Transformers
+        level: 5
+      - label: Groq API / Google Gemini API
+        level: 5
+      - label: Prompt Engineering
+        level: 5
+      - label: SSE Streaming
+        level: 4
+
+  - name: MLOps & DevOps
+    items:
+      - label: MLflow / DVC / DagsHub
+        level: 5
+      - label: Docker / Docker Compose
+        level: 5
+      - label: GitHub Actions CI/CD
+        level: 5
+      - label: Azure Container Apps
+        level: 4
+      - label: Conda
+        level: 4
+      - label: Sentry
+        level: 4
+      - label: ruff / flake8 / black / mypy / pytest
+        level: 5
+
+  - name: Backend & Databases
+    items:
+      - label: FastAPI / Flask / ASP.NET Core
+        level: 5
+      - label: Uvicorn / Pydantic
+        level: 5
+      - label: RESTful APIs
+        level: 5
+      - label: Supabase / PostgreSQL / SQLite / MySQL
+        level: 5
+      - label: SQLAlchemy (async)
+        level: 5
+      - label: Row-Level Security (RLS)
+        level: 5
+      - label: JWT / bcrypt / Google OAuth
+        level: 5
+
+  - name: Frontend & Mobile
+    items:
+      - label: React Native / Expo
+        level: 5
+      - label: React / Next.js
+        level: 4
+      - label: TanStack Query
+        level: 4
+      - label: TypeScript / Tailwind CSS
+        level: 5
+
+  - name: Big Data & Distributed Systems
+    items:
+      - label: Apache Spark (PySpark, Spark SQL, Spark MLlib, Structured Streaming)
+        level: 5
+      - label: Apache Kafka
+        level: 4
+      - label: Apache Hadoop (HDFS, YARN, MapReduce)
+        level: 4
+      - label: Maven
+        level: 3
+
+  - name: Computer Vision
+    items:
+      - label: YOLO (v10/v11/v12) / ultralytics
+        level: 5
+      - label: SORT Tracking / Kalman Filtering
+        level: 5
+      - label: scikit-image
+        level: 4
+
+  - name: NLP & Speech
+    items:
+      - label: MFCC / FFT/STFT / LPC / Mel Spectrograms
+        level: 5
+      - label: GMM / EM Algorithm
+        level: 5
+      - label: HMM (Forward, Viterbi)
+        level: 5
+      - label: CTC Loss / Bidirectional LSTM
+        level: 5
+      - label: librosa / beam search
+        level: 4
+
+  - name: Data & Visualization
+    items:
+      - label: Pandas / NumPy
+        level: 5
+      - label: Matplotlib / Seaborn / Plotly
+        level: 5
+      - label: EDA / Feature Engineering
+        level: 5
+      - label: Statistical Modeling / Time-Series
+        level: 4
+      - label: Hypothesis Testing
+        level: 4
+
+  - name: Optimization & Math
+    items:
+      - label: Metaheuristics (ACO, PSO, GWO, WOA, Firefly, Cuckoo, Bat, SA, Tabu, HC)
+        level: 5
+      - label: Revised Simplex Method
+        level: 4
+      - label: Gradient Descent Variants
+        level: 4
+
+  - name: Soft Skills
+    items:
+      - label: Problem-Solving / Critical Thinking
+        level: 5
+      - label: Communication / Teamwork
+        level: 5
+      - label: Adaptability / Project-Based Learning
+        level: 5
+      - label: Stakeholder Communication
+        level: 4
+      - label: Curriculum Design
+        level: 4
+
+languages:
+  - name: Arabic
+    level: 5
+    label: Native
+  - name: English
+    level: 4
+    label: Professional Working Proficiency
+
+awards:
+  - title: "AI Fluency: Framework & Foundations"
+    awarder: Anthropic Academy
+    date: "2026-01-01"
+    summary: AI fluency and foundations credential for working effectively with large language model systems.
+    url: https://verify.skilljar.com/c/w6om969xopr8
+    icon: hero/trophy
+
+  - title: AI Fluency Internship
+    awarder: FlyRank
+    date: "2026-07-01"
+    summary: Completed AI Fluency internship focusing on LLM fundamentals, prompt engineering, and AI system evaluation.
+    url: https://drive.google.com/file/d/1XZUrMKdy5nHsrKH75P_dAZx9_ukqKUnt/view?usp=sharing
+    icon: hero/trophy
+
+  - title: AI Backend Engineering Internship
+    awarder: FlyRank
+    date: "2026-09-01"
+    summary: Completed AI Backend Engineering internship building production-grade FastAPI backend with LLM inference, RAG pipelines, and async job processing.
+    url: https://drive.google.com/file/d/11PbVjQyK1mTZYbXazU9ty5Oi6KDFKLg5/view?usp=sharing
+    icon: hero/trophy
+---
