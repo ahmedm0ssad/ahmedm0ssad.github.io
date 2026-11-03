@@ -34,7 +34,7 @@ a filterable project gallery, contact info, and key numbers.
 | `content/_index.md` | Homepage — defines all sections and their design |
 | `data/authors/me.yaml` | **Single source of truth**: bio, experience, skills, certifications, contact |
 | `content/projects/` | 56 project pages; tags drive the section's filter buttons |
-| `assets/media/authors/me.png` | Avatar/monogram |
+| `assets/media/authors/me.jpg` | Avatar photo |
 | `static/uploads/resume.pdf` | The downloadable CV |
 | `config/_default/` | Hugo config (site params, menus, module mounts) |
 | `.github/workflows/deploy.yml` | GitHub Pages deployment workflow |
